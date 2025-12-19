@@ -1,5 +1,5 @@
 import { css } from "@emotion/react";
-import loginBg from "../../assets/login_bg.jpg"
+import loginBg from "../../assets/login_bg.jpg";
 
 export const layout = css`
     display: flex;
@@ -82,4 +82,5 @@ export const naver = css`
 
 export const kakao = css`
     background-color: #fee500;
-    color: #181600`;
+    color: #181600;
+`;
